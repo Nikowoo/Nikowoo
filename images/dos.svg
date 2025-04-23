@@ -1,0 +1,14 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+  @import url('https://fonts.cdnfonts.com/css/perfect-dos-vga-437');
+  h1 {
+   color:white;
+     font-family: 'Perfect DOS VGA 437 Win', sans-serif; 
+    box-shadow: 8px 16px 0px #000;border: 16px solid transparent;
+    border-image: url(https://msx.horse/data/slowchat/textborderw.png) 16;
+    margin-bottom: 14px; background-color: blue;
+    max-width: 400px;
+ }
+  </style>
+    <h1>C:\niko.horse\projects</h1>
+    </svg> 
