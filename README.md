@@ -1,1 +1,1 @@
-<img src="images/flatline.svg">
+<img src="images/dos.svg">
