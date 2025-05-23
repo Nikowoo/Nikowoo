@@ -1,3 +1,4 @@
+<img src="images/blink.svg">
 <details>
 <summary><i>currently learning...</i></summary>
 <br>
