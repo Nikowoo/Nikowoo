@@ -4,5 +4,5 @@
 <div align="center">
 <br><p>Welcome to my github profile :]<br>
 I like to code somtimes, check out some of my projects below!
-<br> This is my most <a href="https://github.com/Nikowoo/MAS-gift-generator">Recent</a> project, and this is my <a href="https://github.com/Nikowoo/MAS-gift-generator">Favorite</a> project.<br><h3>This is my site <a href="https://niko.horse">niko.horse</a>.</h3></p>
+<br>This is my most <!-- RECENT_START --><a href="https://github.com">Recent</a><!-- RECENT_END --> project, and this is my <a href="https://github.com/Nikowoo/MAS-gift-generator">Favorite</a> project.<br><h3>This is my site <a href="https://niko.horse">niko.horse</a>.</h3></p>
 </div>
