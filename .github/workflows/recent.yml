@@ -15,15 +15,14 @@ jobs:
 
       - name: Fetch Recent Repo
         run: |
-          # Replace 'YOUR_USERNAME' with your actual GitHub username
-          # We sort by 'created' in 'desc' (descending) order to get the newest repo first
+          # Fetch repos
           RECENT_REPO=$(curl -s "https://api.github.com" | jq -r '.[0].html_url')
           
           echo "Found: $RECENT_REPO"
           
           # Update the file
           sed -i "s|<!-- RECENT_START -->.*<!-- RECENT_END -->|<!-- RECENT_START --><a href=\"$RECENT_REPO\">Recent</a><!-- RECENT_END -->|g" README.md
-          
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
