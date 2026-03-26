@@ -1,0 +1,26 @@
+name: Update Recent Project Link
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Most Recent Repo and Update README
+        run: |
+          RECENT_REPO=$(curl -s "https://api.github.com" | jq -r '.[0].html_url')
+          sed -i "s|<!-- RECENT_START -->.*<!-- RECENT_END -->|<!-- RECENT_START --><a href=\"$RECENT_REPO\">Recent</a><!-- RECENT_END -->|g" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update most recent project link" || exit 0
+          git push
