@@ -11,7 +11,8 @@ hello I hope u find what you're looking for in here ^^
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 -->
 
-
+<div style="background:url('https://file.garden/aejaU8l_-hvXF5j_/stars.gif'); background-size: fill; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 9999; opacity:0.4; pointer-events: none;">
+</div>
 
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" width="360" align="center"><br><br>
 <b> Niko ★ she/they ★ Professional Goober </b> 
