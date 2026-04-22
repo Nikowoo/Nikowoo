@@ -11,9 +11,6 @@ hello I hope u find what you're looking for in here ^^
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 -->
 
-<div style="background:url('https://file.garden/aejaU8l_-hvXF5j_/stars.gif'); background-size: fill; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 9999; opacity:0.4; pointer-events: none;">
-</div>
-
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" width="360" align="center"><br><br>
 <b> Niko ★ she/they ★ Professional Goober </b> 
 </div>
@@ -30,9 +27,12 @@ I like to code somtimes, check out some of my projects below!
     <details>
  <summary> ${\textsf{\color{#ffff} Pony Town players click here}}$ 
  </summary>
-        <p align="center">Hi I'm Niko I like larping</p>
+<div style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)), url('https://file.garden/aejaU8l_-hvXF5j_/blue.jpg'); background-size: cover; color: white;">
+<p align="center"><b><marquee scrollamount="12">Hi I'm Niko I like larping online</marquee></b></p>
+</div>
+
 <div align="left" style="display: flex;">
-    <div align="left" style="width: 25%;flex: 1; padding: 10px;">
+    <div align="left" style="width: 50%;flex: 1; padding: 10px;">
         <p><font size="3">
             <b>dni</b><br>
             Homophobic, Transphobic, etc..<br>
@@ -46,11 +46,11 @@ I like to code somtimes, check out some of my projects below!
             ignore you and move on with my day, sorry not sorry I have a job.
         </font></p>
     </div>
-    <div align="left" style="width: 25%;flex: 1; padding: 10px;">
+    <div align="left" style="width: 50%;flex: 1; padding: 10px;">
         <p><font size="3">
         <b>int</b><br>
             Generally anybody but please talk to me if you like any of these, Lapfox Trax/em essex, Joost Klein, MLP, Geometry Dash, Hacking/Programming, Jerma985, Markiplier, or really any nieche interest.<br>
-            I love talking to people don't be affraid to come up to me!
+            I love talking to people
         </p>
 </div>
     </details>
@@ -58,3 +58,5 @@ I like to code somtimes, check out some of my projects below!
     <br>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=Nikowoo&base=8000&color=358d8f&style=for-the-badge&label=YOU%20ARE%20VISITOR:"></p>
 </div>
+<br>
+<img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
