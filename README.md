@@ -10,7 +10,8 @@ hello I hope u find what you're looking for in here ^^
 ⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⣣⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 -->
-
+<img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
+<br>
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" width="360" align="center"><br><br>
 <b> Niko ★ she/they ★ Professional Goober </b> 
 </div>
