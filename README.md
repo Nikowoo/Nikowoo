@@ -15,9 +15,9 @@ hello I hope u find what you're looking for in here ^^
 <b> Niko ★ she/they ★ Professional Goober </b> 
 </div>
 <div align="center">
-<br><p>Welcome to my github profile :]<br>
+<br><p>Welcome to my github profile :]<br><br>
 I like to code somtimes, check out some of my projects below!
-<br>This is my most <!-- RECENT_START --><a href="https://github.com/Nikowoo/Instagram-Story-Viewer">Recent</a><!-- RECENT_END --> project, and this is my <a href="https://github.com/Nikowoo/MAS-gift-generator">Favorite</a> project.<br><h3>Check out my site <a href="https://niko.horse">niko.horse</a>.</h3></p>  <p align="center"> 
+<br><br>This is my most <!-- RECENT_START --><a href="https://github.com/Nikowoo/Instagram-Story-Viewer">Recent</a><!-- RECENT_END --> project, and this is my <a href="https://github.com/Nikowoo/MAS-gift-generator">Favorite</a> project.<br><h3>Check out my site <a href="https://niko.horse">niko.horse</a>.</h3></p>  <p align="center"> 
  <a href="https://nikowoo.atabook.org/">guestbook</a> •
   <a href="https://discord.com/users/343508964723392514">discord</a> •
   <a href="https://twitter.com/DonkeyNikoo">twitter</a>
