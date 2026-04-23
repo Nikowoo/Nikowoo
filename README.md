@@ -22,7 +22,7 @@ hello I hope u find what you're looking for in here ^^
 -->
 
 <img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
-<div align="center"><a href="#pony"><img src="https://file.garden/aejaU8l_-hvXF5j_/github%20(4).png" width="500" height="500"></a></div>
+<div align="center"><a href="#pony"><img src="https://file.garden/aejaU8l_-hvXF5j_/github%20(4).png" width="700" height="700"></a></div>
 <br>
 <br>
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" height="240" width="90%" align="center"><br><br>
@@ -33,8 +33,7 @@ hello I hope u find what you're looking for in here ^^
     <img src="https://file.garden/aejaU8l_-hvXF5j_/cat.gif" width="30" align="center">
     <details>
  <summary> ${\textsf{\color{#ffff} Pony Town players click here}}$ 
- <a name="pony"></a>
- </summary>
+ </summary><a name="pony"></a>
  <br>
 <div style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)), url('https://file.garden/aejaU8l_-hvXF5j_/blue.jpg'); background-size: cover; color: white;">
 <p align="center"><b><marquee scrollamount="12">Hi I'm Niko I like larping online</marquee></b></p>
