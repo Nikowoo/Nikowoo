@@ -22,7 +22,7 @@ hello I hope u find what you're looking for in here ^^
 -->
 
 <img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
-<div align="center"><a href="#pony"><img src="https://file.garden/aejaU8l_-hvXF5j_/github%20(4).png" width="700" height="700"></a></div>
+<div align="center"><a href="#pony"><img src="https://file.garden/aejaU8l_-hvXF5j_/github%20(4).png" width="500" height="500"></a></div>
 <br>
 <br>
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" height="240" width="90%" align="center"><br><br>
@@ -31,13 +31,12 @@ hello I hope u find what you're looking for in here ^^
   <br>
     <br> 
     <img src="https://file.garden/aejaU8l_-hvXF5j_/cat.gif" width="30" align="center">
-  <a name="pony"></a>
     <details>
  <summary> ${\textsf{\color{#ffff} Pony Town players click here}}$ 
- </summary>
+ </summary><a name="pony"></a>
  <br>
 <div style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)), url('https://file.garden/aejaU8l_-hvXF5j_/blue.jpg'); background-size: cover; color: white;">
-  <p align="center"><b><marquee scrollamount="12">I'm Niko I like larping online</marquee></b></p>
+<p align="center"><b><marquee scrollamount="12">Hi I'm Niko I like larping online</marquee></b></p>
 </div>
 <center></center>
 <div align="left" style="display: flex;">
@@ -71,7 +70,9 @@ I like to code somtimes, check out some of my projects below!
 <br><br>This is my most <!-- RECENT_START --><a href="https://github.com/Nikowoo/Instagram-Story-Viewer">Recent</a><!-- RECENT_END --> project, and this is my <a href="https://github.com/Nikowoo/MAS-gift-generator">Favorite</a> project.<br><h3>Check out my site <a href="https://niko.horse">niko.horse</a>.</h3></p>  <p align="center"> 
  </p>
     <br>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=Nikowoo&base=8000&color=358d8f&style=for-the-badge&label=YOU%20ARE%20VISITOR:"></p>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=Nikowoo&base=8000&color=358d8f&style=for-the-badge&label=YOU%20ARE%20VISITOR:">
+    <br>
+<img src="https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/dvcksz/latest-song?format=shields.io"></p>
 </div>
 <br>
 <img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
