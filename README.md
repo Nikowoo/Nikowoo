@@ -31,11 +31,11 @@ hello I hope u find what you're looking for in here ^^
   <br>
     <br> 
     <img src="https://file.garden/aejaU8l_-hvXF5j_/cat.gif" width="30" align="center">
+  <a name="pony"></a>
     <details>
  <summary> ${\textsf{\color{#ffff} Pony Town players click here}}$ 
  </summary>
  <br>
-      <a name="pony">HI</a>
 <div style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)), url('https://file.garden/aejaU8l_-hvXF5j_/blue.jpg'); background-size: cover; color: white;">
   <p align="center"><b><marquee scrollamount="12">I'm Niko I like larping online</marquee></b></p>
 </div>
