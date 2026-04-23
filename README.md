@@ -29,7 +29,6 @@ hello I hope u find what you're looking for in here ^^
 </div>
 <div align="center">
   <br>
-    <br> 
     <img src="https://file.garden/aejaU8l_-hvXF5j_/cat.gif" width="30" align="center">
     <details>
  <summary> ${\textsf{\color{#ffff} Pony Town players click here}}$ 
