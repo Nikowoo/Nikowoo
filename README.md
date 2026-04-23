@@ -36,9 +36,10 @@ hello I hope u find what you're looking for in here ^^
  </summary>
  <br>
 <div style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)), url('https://file.garden/aejaU8l_-hvXF5j_/blue.jpg'); background-size: cover; color: white;">
-<p align="center"><b><marquee scrollamount="12">Hi I'm Niko I like larping online</marquee></b></p>
+<a name="pony"></a>
+  <p align="center"><b><marquee scrollamount="12">Hi I'm Niko I like larping online</marquee></b></p>
 </div>
-<center><a name="pony"></a></center>
+<center></center>
 <div align="left" style="display: flex;">
     <div align="left" style="width: 50%;flex: 1; padding: 10px;">
         <p><font size="3">
