@@ -22,7 +22,7 @@ hello I hope u find what you're looking for in here ^^
 -->
 
 <img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
-<div align="center"><a href="#pony"><img src="https://file.garden/aejaU8l_-hvXF5j_/github%20(4).png" width="500" height="500"></a></div>
+<div align="center"><img src="https://file.garden/aejaU8l_-hvXF5j_/github%20(4).png" width="500" height="500"></div>
 <br>
 <br>
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" height="240" width="90%" align="center"><br><br>
