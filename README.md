@@ -27,40 +27,37 @@ hello I hope u find what you're looking for in here ^^
 <br>
 <div align="center"> <img src="https://i.imgur.com/ACt9Nl1.gif" height="240" width="90%" align="center"><br><br>
 </div>
+<div align="center"><img src="https://file.garden/aejaU8l_-hvXF5j_/about.png" height="500"></div>
+
+ <div align="center">
+  <img src="https://file.garden/aejaU8l_-hvXF5j_/int.png" width="0">
+
+ <ul id="user-content-toc" style="list-style: none;">
+<p>
+    <img src="https://file.garden/aejaU8l_-hvXF5j_/int.png" alt="Click me" />
+      <br>
+      <a name="pony"></a>
+          <p width="50%" align="center">
+            <font size="3">
+              <b>dni</b><br>
+              Homophobic, Transphobic, etc..<br>
+              I don't mind risqué humor, it can be pretty funny at times, but please don't take this as an excuse to just be horrible.<br>
+              I really don't expect everyone to be perfect but if you're in communities like TCC or Sh/Edtwt please don't interact w/ me. I'm an adult with real life issues.
+            </font>
+          </p><br>
+          <tr width="50%" valign="top" align="left">
+            <font size="3">
+              <b>int</b><br>
+              Generally anybody but please talk to me if you like any of these: Lapfox Trax/em essex, Joost Klein, MLP, Geometry Dash, Hacking/Programming, Jerma985, Markiplier, or really any niche interest.
+              I love talking to people so don't be afraid to approach me!
+            </font>
+          </tr>
+</p>
+</details>
+  </ul>
+  <br><br>
+</div>
 <div align="center">
-  <br>
-    <img src="https://file.garden/aejaU8l_-hvXF5j_/cat.gif" width="30" align="center">
-    <details>
- <summary> ${\textsf{\color{#ffff} Pony Town players click here}}$ 
- </summary><a name="pony"></a>
- <br>
-<div style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)), url('https://file.garden/aejaU8l_-hvXF5j_/blue.jpg'); background-size: cover; color: white;">
-<p align="center"><b><marquee scrollamount="12">Hi I'm Niko I like larping online</marquee></b></p>
-</div>
-<center></center>
-<div align="left" style="display: flex;">
-    <div align="left" style="width: 50%;flex: 1; padding: 10px;">
-        <p><font size="3">
-            <b>dni</b><br>
-            Homophobic, Transphobic, etc..<br>
-            I don't mind risqué humor, it can be pretty funny at times,
-            but please don't take this as an excuse to just be horrible.<br><br>
-            I really don't expect everyone to be perfect but if you're 
-            in communities like TCC or Sh/Edtwt please don't interact w/ me
-            y'all need help. I'm an adult with real life issues,
-            I do not care about proshippers what so ever, while I think it's
-            gross I have so many other things to worry about I'm just going
-            ignore you and move on with my day, sorry not sorry I have a job.
-        </font></p>
-    </div>
-    <div align="left" style="width: 50%;flex: 1; padding: 10px;">
-        <p><font size="3">
-        <b>int</b><br>
-            Generally anybody but please talk to me if you like any of these, Lapfox Trax/em essex, Joost Klein, MLP, Geometry Dash, Hacking/Programming, Jerma985, Markiplier, or really any nieche interest.<br>
-            I love talking to people so don't be afraid to approach me!
-        </p>
-</div>
-    </details>
   <a href="https://nikowoo.atabook.org/">guestbook</a> •
   <a href="https://discord.com/users/343508964723392514">discord</a> •
   <a href="https://twitter.com/DonkeyNikoo">twitter</a><br>
@@ -75,3 +72,4 @@ I like to code somtimes, check out some of my projects below!
 </div>
 <br>
 <img src="https://file.garden/aejaU8l_-hvXF5j_/blue.jpg" width="100%" height="50px" style="object-position: cover;" align="center">
+</div>
